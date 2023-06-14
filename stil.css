@@ -17,7 +17,7 @@ h2, h3, h4, h5{
 a{
 	color: hsla (9, 100%, 64%, 0.5)
 }
-body{background-image: url("../slike/pozadina.png");}
+body{background-image: url("slike/pozadina.png");}
 li{display: inline;
 border:10px;
 }
